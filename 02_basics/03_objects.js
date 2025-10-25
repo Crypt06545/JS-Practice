@@ -71,7 +71,8 @@ console.log(JsUser.greetingTwo()); // Accesses 'name' dynamically using 'this'
 
 // Output:
 // Hello JS user
-// undefined (because console.log prints the return value, which is undefined)
+// undefined (because console.log prin
+// ts the return value, which is undefined)
 // Hello JS user, Hitesh
 // undefined
 
